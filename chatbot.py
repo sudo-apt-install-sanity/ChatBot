@@ -1,5 +1,5 @@
 # Install dependencies (needed only in Colab or if not installed locally)
-!pip install gradio pandas scikit-learn matplotlib --quiet
+#!pip install gradio pandas scikit-learn matplotlib --quiet
 
 # --- Imports ---
 import pandas as pd
